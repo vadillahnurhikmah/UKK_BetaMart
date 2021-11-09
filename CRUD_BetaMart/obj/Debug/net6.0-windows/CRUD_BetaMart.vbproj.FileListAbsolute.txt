@@ -1,0 +1,17 @@
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\CRUD_BetaMart.exe
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\CRUD_BetaMart.deps.json
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\CRUD_BetaMart.runtimeconfig.json
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\CRUD_BetaMart.dll
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\ref\CRUD_BetaMart.dll
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\bin\Debug\net6.0-windows\CRUD_BetaMart.pdb
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.vbproj.AssemblyReference.cache
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.Form1.resources
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.vbproj.GenerateResource.cache
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.GeneratedMSBuildEditorConfig.editorconfig
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.AssemblyInfoInputs.cache
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.AssemblyInfo.vb
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.vbproj.CoreCompileInputs.cache
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.dll
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\ref\CRUD_BetaMart.dll
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.pdb
+D:\UKK\OOP\CRUD_BetaMart\CRUD_BetaMart\obj\Debug\net6.0-windows\CRUD_BetaMart.genruntimeconfig.cache
